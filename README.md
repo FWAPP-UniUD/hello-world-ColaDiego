@@ -1,6 +1,6 @@
 # Hello World!
 
-This is the first project to be used just to make you confortable with the `git` revision control system and with the `github.com` classroom environment.
+This is the first project to be used just to make you comfortable with the `git` revision control system and with the `github.com` classroom environment.
 
 The assignment consists just in cloning this repository on your computer, editing this `README.md` file and adding your name as the contributor of this file.
 
@@ -49,3 +49,4 @@ If everything went good, now at `https://github.com/FWAPP-UniUD/hello-world-<you
 Contributors:
     
 * Luca Di Gaspero
+* Diego Colautti
